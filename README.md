@@ -1,1 +1,1 @@
-This is a basic login and registration application writting in Python.
+This is a basic login and registration application written in Python.
